@@ -1,5 +1,8 @@
 # myJavaCourse
 
+Comprehensive Java material for reference and practice.
+From basic concepts to more advanced topics.
+
 ## Table of Contents
 
 - [01 Basic Concepts](01_Basic%20Concepts)
@@ -90,3 +93,9 @@
 - [20 Frameworks and Libraries](20_Frameworks%20and%20Libraries)
   - [HibernateBasics.java](20_Frameworks%20and%20Libraries/HibernateBasics.java)
   - [SpringBasics.java](20_Frameworks%20and%20Libraries/SpringBasics.java)
+
+## Book Alternatives
+
+- [Head First Java](https://www.amazon.com/Head-First-Java-Brain-Friendly-Guide/dp/1491910771)
+- [Java για όλους](https://www.skroutz.gr/s/18271192/Java-gia-olous.html)
+- [Head First Pattern Design](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
