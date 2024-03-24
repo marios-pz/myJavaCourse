@@ -1,8 +1,8 @@
 # myJavaCourse
 
-<div style="text-align:center">
-  <img src="https://github.com/marios-pz/myJavaCourse/assets/30930688/738e2158-19e0-47e4-8132-957ada003f72" alt="image" style="width:60%;">
-</div>
+<p align="center">
+  <img src="https://github.com/marios-pz/myJavaCourse/assets/30930688/738e2158-19e0-47e4-8132-957ada003f72" alt="image" width="70%">
+</p>
 
 
 Comprehensive Java material for reference and practice.
