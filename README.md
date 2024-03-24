@@ -10,7 +10,7 @@ From basic concepts to more advanced topics.
 
 > less work, more coffee
 >
-> - Some Java Dev
+> -Some Java Dev
 
 
 ## Table of Contents
