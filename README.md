@@ -99,3 +99,4 @@ From basic concepts to more advanced topics.
 - [Head First Java](https://www.amazon.com/Head-First-Java-Brain-Friendly-Guide/dp/1491910771)
 - [Java για όλους](https://www.skroutz.gr/s/18271192/Java-gia-olous.html)
 - [Head First Pattern Design](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
+- [Cracking The Code Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
