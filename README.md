@@ -8,6 +8,11 @@
 Comprehensive Java material for reference and practice.
 From basic concepts to more advanced topics.
 
+> less work, more coffee
+>
+> - Some Java Dev
+
+
 ## Table of Contents
 
 - [01 Basic Concepts](01_Basic%20Concepts)
