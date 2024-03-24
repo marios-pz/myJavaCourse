@@ -1,7 +1,7 @@
 # myJavaCourse
 
 <div style="text-align:center">
-  <img src="https://github.com/marios-pz/myJavaCourse/assets/30930688/738e2158-19e0-47e4-8132-957ada003f72" alt="image" style="width:30%;">
+  <img src="https://github.com/marios-pz/myJavaCourse/assets/30930688/738e2158-19e0-47e4-8132-957ada003f72" alt="image" style="width:60%;">
 </div>
 
 
