@@ -4,7 +4,6 @@
   <img src="https://github.com/marios-pz/myJavaCourse/assets/30930688/738e2158-19e0-47e4-8132-957ada003f72" alt="image" width="70%">
 </p>
 
-
 Comprehensive Java material for reference and practice.
 From basic concepts to more advanced topics.
 
@@ -12,6 +11,7 @@ From basic concepts to more advanced topics.
 >
 > -Some Java Dev
 
+## Java Conventions
 
 ## Table of Contents
 
@@ -103,6 +103,10 @@ From basic concepts to more advanced topics.
 - [20 Frameworks and Libraries](20_Frameworks%20and%20Libraries)
   - [HibernateBasics.java](20_Frameworks%20and%20Libraries/HibernateBasics.java)
   - [SpringBasics.java](20_Frameworks%20and%20Libraries/SpringBasics.java)
+
+## References
+
+- [W3 School](https://www.w3schools.com/java)
 
 ## Book Alternatives
 
